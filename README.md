@@ -1,4 +1,4 @@
-### ++NeuroStartUp++
+# <u>NeuroStartUp</u>
 
 ![](./logo.png)
 
